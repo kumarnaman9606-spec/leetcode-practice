@@ -4,13 +4,14 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-- Total Problems Solved: 1
+- Total Problems Solved: 2
 - Language: C
 
 ## Solutions
 
 | Problem No. | Problem Name | Difficulty |
 |------------|-------------|------------|
+| 1266 | Minimum Time Visiting All Points | Easy |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy |
 
 ## Folder Structure
@@ -18,19 +19,19 @@ This repository contains my solutions to LeetCode problems in C.
 ```text
 leetcode-solutions/
 ├── C/
+│   ├── 1266_Minimum_Time_Visiting_All_Points.c
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
 └── README.md
 ```
 
-## Problem 2144: Minimum Cost of Buying Candies With Discount
+## Topics Covered
 
-### Approach
-1. Sort the candies in descending order.
-2. For every group of 3 candies, the cheapest candy is free.
-3. Add the cost of all candies except every third candy.
+- Arrays
+- Sorting
+- Greedy
+- Simulation
+- Geometry
 
-### Time Complexity
-- O(n²) using Bubble Sort
+## Goal
 
-### Space Complexity
-- O(1)
+To improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms by consistently solving LeetCode problems.
