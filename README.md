@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-* Total Problems Solved: 5
+* Total Problems Solved: 6
 * Language: C
 
 ## Solutions
@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems in C.
 | 9           | Palindrome Number                            | Easy       |
 | 20          | Valid Parentheses                            | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
+| 1768        | Merge Strings Alternately                    | Easy       |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
 
 ## Folder Structure
@@ -26,6 +27,7 @@ leetcode-solutions/
 │   ├── 9_Palindrome_Number.c
 │   ├── 20_Valid_Parentheses.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
+│   ├── 1768_Merge_Strings_Alternately.c
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
 └── README.md
 ```
@@ -49,6 +51,6 @@ To improve my problem-solving skills and strengthen my understanding of Data Str
 
 ## Progress
 
-* Easy: 4
+* Easy: 5
 * Medium: 1
 * Hard: 0
