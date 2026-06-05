@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-* Total Problems Solved: 10
+* Total Problems Solved: 11
 * Language: C
 
 ## Solutions
@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems in C.
 | 2           | Add Two Numbers                              | Medium     |
 | 9           | Palindrome Number                            | Easy       |
 | 20          | Valid Parentheses                            | Easy       |
+| 345         | Reverse Vowels of a String                   | Easy       |
 | 605         | Can Place Flowers                            | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
@@ -30,6 +31,7 @@ leetcode-solutions/
 │   ├── 2_Add_Two_Numbers.c
 │   ├── 9_Palindrome_Number.c
 │   ├── 20_Valid_Parentheses.c
+│   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
@@ -64,6 +66,6 @@ To improve my problem-solving skills and strengthen my understanding of Data Str
 
 ## Progress
 
-* Easy: 9
+* Easy: 10
 * Medium: 1
 * Hard: 0
