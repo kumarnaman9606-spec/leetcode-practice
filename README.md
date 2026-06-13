@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-* Total Problems Solved: 12
+* Total Problems Solved: 13
 * Language: C
 
 ## Solutions
@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems in C.
 | 9           | Palindrome Number                            | Easy       |
 | 20          | Valid Parentheses                            | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
+| 334         | Increasing Triplet Subsequence               | Medium     |
 | 345         | Reverse Vowels of a String                   | Easy       |
 | 605         | Can Place Flowers                            | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
@@ -33,6 +34,7 @@ leetcode-solutions/
 │   ├── 9_Palindrome_Number.c
 │   ├── 20_Valid_Parentheses.c
 │   ├── 238_Product_of_Array_Except_Self.c
+│   ├── 334_Increasing_Triplet_Subsequence.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
@@ -63,6 +65,8 @@ leetcode-solutions/
 * Brute Force
 * Prefix Products
 * Suffix Products
+* Subsequences
+* Linear Scan
 
 ## Goal
 
@@ -71,5 +75,5 @@ To improve my problem-solving skills and strengthen my understanding of Data Str
 ## Progress
 
 * Easy: 10
-* Medium: 2
+* Medium: 3
 * Hard: 0
