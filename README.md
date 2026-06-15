@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-* Total Problems Solved: 14
+* Total Problems Solved: 15
 * Language: C
 
 ## Solutions
@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems in C.
 | 283         | Move Zeroes                                  | Easy       |
 | 334         | Increasing Triplet Subsequence               | Medium     |
 | 345         | Reverse Vowels of a String                   | Easy       |
+| 392         | Is Subsequence                               | Easy       |
 | 605         | Can Place Flowers                            | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
@@ -38,6 +39,7 @@ leetcode-solutions/
 │   ├── 283_Move_Zeroes.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
+│   ├── 392_Is_Subsequence.c
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
@@ -78,6 +80,6 @@ To improve my problem-solving skills and strengthen my understanding of Data Str
 
 ## Progress
 
-* Easy: 11
+* Easy: 12
 * Medium: 3
 * Hard: 0
