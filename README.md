@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C.
 
 ## Statistics
 
-* Total Problems Solved: 15
+* Total Problems Solved: 16
 * Language: C
 
 ## Solutions
@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems in C.
 | ----------- | -------------------------------------------- | ---------- |
 | 2           | Add Two Numbers                              | Medium     |
 | 9           | Palindrome Number                            | Easy       |
+| 11          | Container With Most Water                    | Medium     |
 | 20          | Valid Parentheses                            | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
@@ -34,6 +35,7 @@ leetcode-solutions/
 ├── C/
 │   ├── 2_Add_Two_Numbers.c
 │   ├── 9_Palindrome_Number.c
+│   ├── 11_Container_With_Most_Water.c
 │   ├── 20_Valid_Parentheses.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 283_Move_Zeroes.c
@@ -73,6 +75,8 @@ leetcode-solutions/
 * Linear Scan
 * In-Place Algorithms
 * Pointer Manipulation
+* Sliding Window Concepts
+* Optimization Techniques
 
 ## Goal
 
@@ -81,5 +85,5 @@ To improve my problem-solving skills and strengthen my understanding of Data Str
 ## Progress
 
 * Easy: 12
-* Medium: 3
+* Medium: 4
 * Hard: 0
