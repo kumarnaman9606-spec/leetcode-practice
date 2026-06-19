@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems in C.
+This repository contains my solutions to LeetCode problems in C. The goal of this repository is to document my problem-solving journey, improve algorithmic thinking, and strengthen my understanding of Data Structures and Algorithms.
 
 ## Statistics
 
@@ -56,34 +56,40 @@ leetcode-solutions/
 
 * Arrays
 * Strings
+* Linked Lists
 * Stack
 * Sorting
-* Greedy
+* Greedy Algorithms
+* Two Pointers
+* Sliding Window
+* Prefix & Suffix Products
+* Subsequences
 * Simulation
 * Geometry
-* Two Pointers
-* Linked Lists
-* Dynamic Memory Allocation
 * Mathematics
-* Greatest Common Divisor (GCD)
 * Euclidean Algorithm
+* Greatest Common Divisor (GCD)
+* Dynamic Memory Allocation
 * String Manipulation
-* Brute Force
-* Prefix Products
-* Suffix Products
-* Subsequences
-* Linear Scan
 * In-Place Algorithms
 * Pointer Manipulation
-* Sliding Window Concepts
+* Brute Force
 * Optimization Techniques
-
-## Goal
-
-To improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms through consistent LeetCode practice.
 
 ## Progress
 
-* Easy: 12
-* Medium: 4
-* Hard: 0
+| Difficulty | Solved |
+| ---------- | ------ |
+| Easy       | 12     |
+| Medium     | 4      |
+| Hard       | 0      |
+
+**Total Solved:** 16
+
+## Goal
+
+* Solve LeetCode problems consistently.
+* Improve problem-solving and coding skills.
+* Strengthen understanding of Data Structures and Algorithms.
+* Learn efficient approaches and optimize solutions.
+* Build a well-documented repository of C solutions.
