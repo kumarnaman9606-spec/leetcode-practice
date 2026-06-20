@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 16
+* Total Problems Solved: 17
 * Language: C
 
 ## Solutions
@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 345         | Reverse Vowels of a String                   | Easy       |
 | 392         | Is Subsequence                               | Easy       |
 | 605         | Can Place Flowers                            | Easy       |
+| 643         | Maximum Average Subarray I                   | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
@@ -43,6 +44,7 @@ leetcode-solutions/
 │   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 392_Is_Subsequence.c
 │   ├── 605_Can_Place_Flowers.c
+│   ├── 643_Maximum_Average_Subarray_I.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
 │   ├── 1431_Kids_With_the_Greatest_Number_of_Candies.c
@@ -80,11 +82,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 12     |
+| Easy       | 13     |
 | Medium     | 4      |
 | Hard       | 0      |
 
-**Total Solved:** 16
+**Total Solved:** 17
 
 ## Goal
 
