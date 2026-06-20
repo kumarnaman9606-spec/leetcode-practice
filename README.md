@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 17
+* Total Problems Solved: 18
 * Language: C
 
 ## Solutions
@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
+| 1679        | Max Number of K-Sum Pairs                    | Medium     |
 | 1768        | Merge Strings Alternately                    | Easy       |
 | 1979        | Find Greatest Common Divisor of Array        | Easy       |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
@@ -48,6 +49,7 @@ leetcode-solutions/
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
 │   ├── 1431_Kids_With_the_Greatest_Number_of_Candies.c
+│   ├── 1679_Max_Number_of_K_Sum_Pairs.c
 │   ├── 1768_Merge_Strings_Alternately.c
 │   ├── 1979_Find_Greatest_Common_Divisor_of_Array.c
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
@@ -77,16 +79,18 @@ leetcode-solutions/
 * Pointer Manipulation
 * Brute Force
 * Optimization Techniques
+* Array Sorting
+* Frequency Counting
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 13     |
-| Medium     | 4      |
+| Medium     | 5      |
 | Hard       | 0      |
 
-**Total Solved:** 17
+**Total Solved:** 18
 
 ## Goal
 
