@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 19
+* Total Problems Solved: 20
 * Language: C
 
 ## Solutions
@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 392         | Is Subsequence                               | Easy       |
 | 605         | Can Place Flowers                            | Easy       |
 | 643         | Maximum Average Subarray I                   | Easy       |
+| 724         | Find Pivot Index                             | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
@@ -47,6 +48,7 @@ leetcode-solutions/
 │   ├── 392_Is_Subsequence.c
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 643_Maximum_Average_Subarray_I.c
+│   ├── 724_Find_Pivot_Index.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
 │   ├── 1431_Kids_With_the_Greatest_Number_of_Candies.c
@@ -68,10 +70,10 @@ leetcode-solutions/
 * Greedy Algorithms
 * Two Pointers
 * Sliding Window
-* Prefix Products
-* Suffix Products
 * Prefix Sum
 * Running Sum
+* Prefix Products
+* Suffix Products
 * Subsequences
 * Simulation
 * Geometry
@@ -91,11 +93,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 14     |
+| Easy       | 15     |
 | Medium     | 5      |
 | Hard       | 0      |
 
-**Total Solved:** 19
+**Total Solved:** 20
 
 ## Goal
 
