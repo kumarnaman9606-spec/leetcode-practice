@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 20
+* Total Problems Solved: 21
 * Language: C
 
 ## Solutions
@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 334         | Increasing Triplet Subsequence               | Medium     |
 | 345         | Reverse Vowels of a String                   | Easy       |
 | 392         | Is Subsequence                               | Easy       |
+| 443         | String Compression                           | Medium     |
 | 605         | Can Place Flowers                            | Easy       |
 | 643         | Maximum Average Subarray I                   | Easy       |
 | 724         | Find Pivot Index                             | Easy       |
@@ -46,6 +47,7 @@ leetcode-solutions/
 │   ├── 334_Increasing_Triplet_Subsequence.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 392_Is_Subsequence.c
+│   ├── 443_String_Compression.c
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 643_Maximum_Average_Subarray_I.c
 │   ├── 724_Find_Pivot_Index.c
@@ -82,6 +84,9 @@ leetcode-solutions/
 * Greatest Common Divisor (GCD)
 * Dynamic Memory Allocation
 * String Manipulation
+* Character Arrays
+* String Compression
+* Run-Length Encoding
 * In-Place Algorithms
 * Pointer Manipulation
 * Brute Force
@@ -94,10 +99,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 15     |
-| Medium     | 5      |
+| Medium     | 6      |
 | Hard       | 0      |
 
-**Total Solved:** 20
+**Total Solved:** 21
 
 ## Goal
 
