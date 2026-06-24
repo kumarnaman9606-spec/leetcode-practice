@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 21
+* Total Problems Solved: 22
 * Language: C
 
 ## Solutions
@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 9           | Palindrome Number                            | Easy       |
 | 11          | Container With Most Water                    | Medium     |
 | 20          | Valid Parentheses                            | Easy       |
+| 206         | Reverse Linked List                          | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
 | 334         | Increasing Triplet Subsequence               | Medium     |
@@ -42,6 +43,7 @@ leetcode-solutions/
 │   ├── 9_Palindrome_Number.c
 │   ├── 11_Container_With_Most_Water.c
 │   ├── 20_Valid_Parentheses.c
+│   ├── 206_Reverse_Linked_List.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 283_Move_Zeroes.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
@@ -67,6 +69,8 @@ leetcode-solutions/
 * Arrays
 * Strings
 * Linked Lists
+* Singly Linked Lists
+* Linked List Reversal
 * Stack
 * Sorting
 * Greedy Algorithms
@@ -89,6 +93,7 @@ leetcode-solutions/
 * Run-Length Encoding
 * In-Place Algorithms
 * Pointer Manipulation
+* Iterative Algorithms
 * Brute Force
 * Optimization Techniques
 * Array Sorting
@@ -98,11 +103,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 15     |
+| Easy       | 16     |
 | Medium     | 6      |
 | Hard       | 0      |
 
-**Total Solved:** 21
+**Total Solved:** 22
 
 ## Goal
 
