@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 23
+* Total Problems Solved: 24
 * Language: C
 
 ## Solutions
@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 1732        | Find the Highest Altitude                    | Easy       |
 | 1768        | Merge Strings Alternately                    | Easy       |
 | 1979        | Find Greatest Common Divisor of Array        | Easy       |
+| 2095        | Delete the Middle Node of a Linked List      | Medium     |
 | 2130        | Maximum Twin Sum of a Linked List            | Medium     |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
 
@@ -61,6 +62,7 @@ leetcode-solutions/
 │   ├── 1732_Find_the_Highest_Altitude.c
 │   ├── 1768_Merge_Strings_Alternately.c
 │   ├── 1979_Find_Greatest_Common_Divisor_of_Array.c
+│   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
 └── README.md
@@ -74,6 +76,7 @@ leetcode-solutions/
 * Singly Linked Lists
 * Linked List Traversal
 * Linked List Reversal
+* Linked List Deletion
 * Stack
 * Sorting
 * Greedy Algorithms
@@ -109,10 +112,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 16     |
-| Medium     | 7      |
+| Medium     | 8      |
 | Hard       | 0      |
 
-**Total Solved:** 23
+**Total Solved:** 24
 
 ## Goal
 
