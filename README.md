@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 25
+* Total Problems Solved: 26
 * Language: C
 
 ## Solutions
@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 206         | Reverse Linked List                          | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
+| 328         | Odd Even Linked List                         | Medium     |
 | 334         | Increasing Triplet Subsequence               | Medium     |
 | 345         | Reverse Vowels of a String                   | Easy       |
 | 392         | Is Subsequence                               | Easy       |
@@ -49,6 +50,7 @@ leetcode-solutions/
 │   ├── 206_Reverse_Linked_List.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 283_Move_Zeroes.c
+│   ├── 328_Odd_Even_Linked_List.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 392_Is_Subsequence.c
@@ -79,6 +81,7 @@ leetcode-solutions/
 * Linked List Traversal
 * Linked List Reversal
 * Linked List Deletion
+* Linked List Reordering
 * Middle Node Detection
 * Stack
 * Sorting
@@ -115,10 +118,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 17     |
-| Medium     | 8      |
+| Medium     | 9      |
 | Hard       | 0      |
 
-**Total Solved:** 25
+**Total Solved:** 26
 
 ## Goal
 
