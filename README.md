@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 26
+* Total Problems Solved: 27
 * Language: C
 
 ## Solutions
@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2095        | Delete the Middle Node of a Linked List      | Medium     |
 | 2130        | Maximum Twin Sum of a Linked List            | Medium     |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
+| 3467        | Transform Array by Parity                    | Easy       |
 
 ## Folder Structure
 
@@ -68,7 +69,8 @@ leetcode-solutions/
 │   ├── 1979_Find_Greatest_Common_Divisor_of_Array.c
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
-│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
+│   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
+│   └── 3467_Transform_Array_by_Parity.c
 └── README.md
 ```
 
@@ -112,16 +114,17 @@ leetcode-solutions/
 * Optimization Techniques
 * Array Sorting
 * Frequency Counting
+* Parity Transformation
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 17     |
+| Easy       | 18     |
 | Medium     | 9      |
 | Hard       | 0      |
 
-**Total Solved:** 26
+**Total Solved:** 27
 
 ## Goal
 
