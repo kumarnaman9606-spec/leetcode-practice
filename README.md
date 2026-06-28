@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 27
+* Total Problems Solved: 28
 * Language: C
 
 ## Solutions
@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2           | Add Two Numbers                              | Medium     |
 | 9           | Palindrome Number                            | Easy       |
 | 11          | Container With Most Water                    | Medium     |
+| 13          | Roman to Integer                             | Easy       |
 | 20          | Valid Parentheses                            | Easy       |
 | 206         | Reverse Linked List                          | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
@@ -47,6 +48,7 @@ leetcode-solutions/
 │   ├── 2_Add_Two_Numbers.c
 │   ├── 9_Palindrome_Number.c
 │   ├── 11_Container_With_Most_Water.c
+│   ├── 13_Roman_to_Integer.c
 │   ├── 20_Valid_Parentheses.c
 │   ├── 206_Reverse_Linked_List.c
 │   ├── 238_Product_of_Array_Except_Self.c
@@ -78,6 +80,8 @@ leetcode-solutions/
 
 * Arrays
 * Strings
+* Roman Numerals
+* Character Mapping
 * Linked Lists
 * Singly Linked Lists
 * Linked List Traversal
@@ -120,11 +124,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 18     |
+| Easy       | 19     |
 | Medium     | 9      |
 | Hard       | 0      |
 
-**Total Solved:** 27
+**Total Solved:** 28
 
 ## Goal
 
