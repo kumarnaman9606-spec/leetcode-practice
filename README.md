@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 28
+* Total Problems Solved: 29
 * Language: C
 
 ## Solutions
@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 328         | Odd Even Linked List                         | Medium     |
 | 334         | Increasing Triplet Subsequence               | Medium     |
 | 345         | Reverse Vowels of a String                   | Easy       |
+| 374         | Guess Number Higher or Lower                 | Easy       |
 | 392         | Is Subsequence                               | Easy       |
 | 443         | String Compression                           | Medium     |
 | 605         | Can Place Flowers                            | Easy       |
@@ -56,6 +57,7 @@ leetcode-solutions/
 │   ├── 328_Odd_Even_Linked_List.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
+│   ├── 374_Guess_Number_Higher_or_Lower.c
 │   ├── 392_Is_Subsequence.c
 │   ├── 443_String_Compression.c
 │   ├── 605_Can_Place_Flowers.c
@@ -114,6 +116,8 @@ leetcode-solutions/
 * In-Place Algorithms
 * Pointer Manipulation
 * Iterative Algorithms
+* Binary Search
+* Divide and Conquer
 * Brute Force
 * Optimization Techniques
 * Array Sorting
@@ -124,11 +128,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 19     |
+| Easy       | 20     |
 | Medium     | 9      |
 | Hard       | 0      |
 
-**Total Solved:** 28
+**Total Solved:** 29
 
 ## Goal
 
