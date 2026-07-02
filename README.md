@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 30
+* Total Problems Solved: 31
 * Language: C
 
 ## Solutions
@@ -16,8 +16,9 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 11          | Container With Most Water                    | Medium     |
 | 13          | Roman to Integer                             | Easy       |
 | 20          | Valid Parentheses                            | Easy       |
+| 21          | Merge Two Sorted Lists                       | Easy       |
 | 206         | Reverse Linked List                          | Easy       |
-| 230         | Kth Smallest Element in a BST                | Medium     |
+| 2300        | Successful Pairs of Spells and Potions       | Medium     |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
@@ -40,7 +41,6 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2095        | Delete the Middle Node of a Linked List      | Medium     |
 | 2130        | Maximum Twin Sum of a Linked List            | Medium     |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
-| 2300        | Successful Pairs of Spells and Potions       | Medium     |
 | 3467        | Transform Array by Parity                    | Easy       |
 
 ## Folder Structure
@@ -53,8 +53,9 @@ leetcode-solutions/
 │   ├── 11_Container_With_Most_Water.c
 │   ├── 13_Roman_to_Integer.c
 │   ├── 20_Valid_Parentheses.c
+│   ├── 21_Merge_Two_Sorted_Lists.c
 │   ├── 206_Reverse_Linked_List.c
-│   ├── 230_Kth_Smallest_Element_in_a_BST.c
+│   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 283_Move_Zeroes.c
 │   ├── 328_Odd_Even_Linked_List.c
@@ -77,7 +78,6 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
-│   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   └── 3467_Transform_Array_by_Parity.c
 └── README.md
 ```
@@ -93,9 +93,9 @@ leetcode-solutions/
 * Linked List Traversal
 * Linked List Reversal
 * Linked List Deletion
+* Linked List Merging
 * Linked List Reordering
 * Middle Node Detection
-* Binary Search Trees (BST)
 * Stack
 * Sorting
 * Greedy Algorithms
@@ -128,16 +128,17 @@ leetcode-solutions/
 * Array Sorting
 * Frequency Counting
 * Parity Transformation
+* Custom Comparator (`qsort`)
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 20     |
+| Easy       | 21     |
 | Medium     | 10     |
 | Hard       | 0      |
 
-**Total Solved:** 30
+**Total Solved:** 31
 
 ## Goal
 
