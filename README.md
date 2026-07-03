@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 31
+* Total Problems Solved: 32
 * Language: C
 
 ## Solutions
@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 21          | Merge Two Sorted Lists                       | Easy       |
 | 206         | Reverse Linked List                          | Easy       |
 | 2300        | Successful Pairs of Spells and Potions       | Medium     |
+| 2235        | Add Two Integers                             | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
@@ -55,6 +56,7 @@ leetcode-solutions/
 │   ├── 20_Valid_Parentheses.c
 │   ├── 21_Merge_Two_Sorted_Lists.c
 │   ├── 206_Reverse_Linked_List.c
+│   ├── 2235_Add_Two_Integers.c
 │   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 283_Move_Zeroes.c
@@ -78,6 +80,7 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
+│   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   └── 3467_Transform_Array_by_Parity.c
 └── README.md
 ```
@@ -134,11 +137,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 21     |
+| Easy       | 22     |
 | Medium     | 10     |
 | Hard       | 0      |
 
-**Total Solved:** 31
+**Total Solved:** 32
 
 ## Goal
 
