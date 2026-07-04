@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 32
+* Total Problems Solved: 33
 * Language: C
 
 ## Solutions
@@ -18,8 +18,6 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 20          | Valid Parentheses                            | Easy       |
 | 21          | Merge Two Sorted Lists                       | Easy       |
 | 206         | Reverse Linked List                          | Easy       |
-| 2300        | Successful Pairs of Spells and Potions       | Medium     |
-| 2235        | Add Two Integers                             | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
@@ -42,6 +40,9 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2095        | Delete the Middle Node of a Linked List      | Medium     |
 | 2130        | Maximum Twin Sum of a Linked List            | Medium     |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
+| 2235        | Add Two Integers                             | Easy       |
+| 2300        | Successful Pairs of Spells and Potions       | Medium     |
+| 2413        | Smallest Even Multiple                       | Easy       |
 | 3467        | Transform Array by Parity                    | Easy       |
 
 ## Folder Structure
@@ -59,6 +60,7 @@ leetcode-solutions/
 │   ├── 2235_Add_Two_Integers.c
 │   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
+│   ├── 2413_Smallest_Even_Multiple.c
 │   ├── 283_Move_Zeroes.c
 │   ├── 328_Odd_Even_Linked_List.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
@@ -80,7 +82,6 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
-│   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   └── 3467_Transform_Array_by_Parity.c
 └── README.md
 ```
@@ -131,17 +132,19 @@ leetcode-solutions/
 * Array Sorting
 * Frequency Counting
 * Parity Transformation
+* Arithmetic Operations
+* Number Theory
 * Custom Comparator (`qsort`)
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 22     |
+| Easy       | 23     |
 | Medium     | 10     |
 | Hard       | 0      |
 
-**Total Solved:** 32
+**Total Solved:** 33
 
 ## Goal
 
