@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: 33
+* Total Problems Solved: 34
 * Language: C
 
 ## Solutions
@@ -41,13 +41,14 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2130        | Maximum Twin Sum of a Linked List            | Medium     |
 | 2144        | Minimum Cost of Buying Candies With Discount | Easy       |
 | 2235        | Add Two Integers                             | Easy       |
+| 2236        | Root Equals Sum of Children                  | Easy       |
 | 2300        | Successful Pairs of Spells and Potions       | Medium     |
 | 2413        | Smallest Even Multiple                       | Easy       |
 | 3467        | Transform Array by Parity                    | Easy       |
 
 ## Folder Structure
 
-```text
+```text id="jlwm6g"
 leetcode-solutions/
 ├── C/
 │   ├── 2_Add_Two_Numbers.c
@@ -58,6 +59,7 @@ leetcode-solutions/
 │   ├── 21_Merge_Two_Sorted_Lists.c
 │   ├── 206_Reverse_Linked_List.c
 │   ├── 2235_Add_Two_Integers.c
+│   ├── 2236_Root_Equals_Sum_of_Children.c
 │   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 2413_Smallest_Even_Multiple.c
@@ -82,6 +84,8 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
+│   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
+│   ├── 2413_Smallest_Even_Multiple.c
 │   └── 3467_Transform_Array_by_Parity.c
 └── README.md
 ```
@@ -92,6 +96,9 @@ leetcode-solutions/
 * Strings
 * Roman Numerals
 * Character Mapping
+* Binary Trees
+* Tree Traversal
+* Tree Node Manipulation
 * Linked Lists
 * Singly Linked Lists
 * Linked List Traversal
@@ -140,11 +147,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 23     |
+| Easy       | 24     |
 | Medium     | 10     |
 | Hard       | 0      |
 
-**Total Solved:** 33
+**Total Solved:** 34
 
 ## Goal
 
