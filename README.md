@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **35**
+* Total Problems Solved: **36**
 * Language: **C**
 
 ## Solutions
@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 724         | Find Pivot Index                             | Easy       |
 | 876         | Middle of the Linked List                    | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
+| 1108        | Defanging an IP Address                      | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
 | 1679        | Max Number of K-Sum Pairs                    | Medium     |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2236        | Root Equals Sum of Children                  | Easy       |
 | 2300        | Successful Pairs of Spells and Potions       | Medium     |
 | 2413        | Smallest Even Multiple                       | Easy       |
+| 2469        | Convert the Temperature                      | Easy       |
 | 3467        | Transform Array by Parity                    | Easy       |
 
 ## Folder Structure
@@ -77,6 +79,7 @@ leetcode-solutions/
 │   ├── 724_Find_Pivot_Index.c
 │   ├── 876_Middle_of_the_Linked_List.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
+│   ├── 1108_Defanging_an_IP_Address.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
 │   ├── 1431_Kids_With_the_Greatest_Number_of_Candies.c
 │   ├── 1679_Max_Number_of_K_Sum_Pairs.c
@@ -94,6 +97,10 @@ leetcode-solutions/
 
 * Arrays
 * Strings
+* String Manipulation
+* String Replacement
+* Character Arrays
+* IP Address Manipulation
 * Roman Numerals
 * Character Mapping
 * Binary Trees
@@ -131,8 +138,6 @@ leetcode-solutions/
 * Dynamic Memory Allocation
 * Memory Allocation (`malloc`)
 * Floating-Point Arithmetic
-* String Manipulation
-* Character Arrays
 * String Compression
 * Run-Length Encoding
 * In-Place Algorithms
@@ -149,11 +154,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 25     |
+| Easy       | 26     |
 | Medium     | 10     |
 | Hard       | 0      |
 
-**Total Solved:** **35**
+**Total Solved:** **36**
 
 ## Goal
 
