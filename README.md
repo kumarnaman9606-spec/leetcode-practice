@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **36**
+* Total Problems Solved: **37**
 * Language: **C**
 
 ## Solutions
@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 1108        | Defanging an IP Address                      | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
+| 1480        | Running Sum of 1d Array                      | Easy       |
 | 1679        | Max Number of K-Sum Pairs                    | Medium     |
 | 1732        | Find the Highest Altitude                    | Easy       |
 | 1768        | Merge Strings Alternately                    | Easy       |
@@ -89,7 +90,8 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
-│   └── 3467_Transform_Array_by_Parity.c
+│   ├── 3467_Transform_Array_by_Parity.c
+|   └── 1480_Running_Sum_of_1d_Array.c
 └── README.md
 ```
 
@@ -154,7 +156,7 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 26     |
+| Easy       | 27     |
 | Medium     | 10     |
 | Hard       | 0      |
 
