@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **38**
+* Total Problems Solved: **39**
 * Language: **C**
 
 ## Solutions
@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 2235        | Add Two Integers                             | Easy       |
 | 2236        | Root Equals Sum of Children                  | Easy       |
 | 2300        | Successful Pairs of Spells and Potions       | Medium     |
+| 2390        | Removing Stars From a String                 | Medium     |
 | 2413        | Smallest Even Multiple                       | Easy       |
 | 2469        | Convert the Temperature                      | Easy       |
 | 3467        | Transform Array by Parity                    | Easy       |
@@ -92,6 +93,7 @@ leetcode-solutions/
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
 │   ├── 2130_Maximum_Twin_Sum_of_a_Linked_List.c
 │   ├── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.c
+|   ├── 2390_Removing_Stars_From_a_String.c
 │   ├── 3467_Transform_Array_by_Parity.c
 |   └── 1480_Running_Sum_of_1d_Array.c
 └── README.md
@@ -159,10 +161,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 28     |
-| Medium     | 10     |
+| Medium     | 11     |
 | Hard       | 0      |
 
-**Total Solved:** **38**
+**Total Solved:** **39**
 
 ## Goal
 
