@@ -1,0 +1,70 @@
+/*
+ * 735. Asteroid Collision
+ *
+ * Approach: Stack (Array Implementation)
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
+
+#include <stdlib.h>
+
+struct stack {
+    int size;
+    int top;
+    int *arr;
+};
+
+void push(struct stack *s, int val) {
+    if (s->top == s->size - 1)
+        return;
+
+    s->arr[++s->top] = val;
+}
+
+void pop(struct stack *s) {
+    if (s->top == -1)
+        return;
+
+    s->top--;
+}
+
+int* asteroidCollision(int* asteroids, int asteroidsSize, int* returnSize) {
+
+    struct stack s;
+    s.size = asteroidsSize;
+    s.top = -1;
+    s.arr = (int *)malloc(sizeof(int) * asteroidsSize);
+
+    for (int i = 0; i < asteroidsSize; i++) {
+
+        int curr = asteroids[i];
+
+        while (s.top != -1 &&
+               s.arr[s.top] > 0 &&
+               curr < 0) {
+
+            // Stack top explodes
+            if (s.arr[s.top] < -curr) {
+                pop(&s);
+            }
+            // Both explode
+            else if (s.arr[s.top] == -curr) {
+                pop(&s);
+                curr = 0;
+                break;
+            }
+            // Current asteroid explodes
+            else {
+                curr = 0;
+                break;
+            }
+        }
+
+        if (curr != 0) {
+            push(&s, curr);
+        }
+    }
+
+    *returnSize = s.top + 1;
+    return s.arr;
+}
