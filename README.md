@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **39**
+* Total Problems Solved: **40**
 * Language: **C**
 
 ## Solutions
@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 605         | Can Place Flowers                            | Easy       |
 | 643         | Maximum Average Subarray I                   | Easy       |
 | 724         | Find Pivot Index                             | Easy       |
+| 735         | Asteroid Collision                           | Medium     |
 | 876         | Middle of the Linked List                    | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1108        | Defanging an IP Address                      | Easy       |
@@ -80,6 +81,7 @@ leetcode-solutions/
 │   ├── 605_Can_Place_Flowers.c
 │   ├── 643_Maximum_Average_Subarray_I.c
 │   ├── 724_Find_Pivot_Index.c
+|   ├── 735_Asteroid_Collision.c
 │   ├── 876_Middle_of_the_Linked_List.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1108_Defanging_an_IP_Address.c
@@ -161,10 +163,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 28     |
-| Medium     | 11     |
+| Medium     | 12     |
 | Hard       | 0      |
 
-**Total Solved:** **39**
+**Total Solved:** **40**
 
 ## Goal
 
