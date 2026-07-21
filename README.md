@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **40**
+* Total Problems Solved: **41**
 * Language: **C**
 
 ## Solutions
@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 1679        | Max Number of K-Sum Pairs                    | Medium     |
 | 1732        | Find the Highest Altitude                    | Easy       |
 | 1768        | Merge Strings Alternately                    | Easy       |
+| 1920        | Build Array from Permutation                 | Easy       |
 | 1929        | Concatenation of Array                       | Easy       |
 | 1979        | Find Greatest Common Divisor of Array        | Easy       |
 | 2095        | Delete the Middle Node of a Linked List      | Medium     |
@@ -90,6 +91,7 @@ leetcode-solutions/
 │   ├── 1679_Max_Number_of_K_Sum_Pairs.c
 │   ├── 1732_Find_the_Highest_Altitude.c
 │   ├── 1768_Merge_Strings_Alternately.c
+|   ├── 1920_Build_Array_from_Permutation.c
 |   |── 1929_Concatenation_of_Array.c
 │   ├── 1979_Find_Greatest_Common_Divisor_of_Array.c
 │   ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.c
@@ -162,11 +164,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 28     |
+| Easy       | 29     |
 | Medium     | 12     |
 | Hard       | 0      |
 
-**Total Solved:** **40**
+**Total Solved:** **41**
 
 ## Goal
 
