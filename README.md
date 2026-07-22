@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **42**
+* Total Problems Solved: **43**
 * Language: **C**
 
 ## Solutions
@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 20          | Valid Parentheses                            | Easy       |
 | 21          | Merge Two Sorted Lists                       | Easy       |
 | 26          | Remove Duplicates from Sorted Array          | Easy       |
+| 125         | Valid Palindrome                             | Easy       |
 | 206         | Reverse Linked List                          | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 2469        | Convert the Temperature                      | Easy       |
@@ -67,6 +68,7 @@ leetcode-solutions/
 │   ├── 20_Valid_Parentheses.c
 │   ├── 21_Merge_Two_Sorted_Lists.c
 |   ├── 26_Remove_Duplicates_from_Sorted_Array.c
+|   ├── 125_Valid_Palindrome.c
 │   ├── 206_Reverse_Linked_List.c
 │   ├── 2235_Add_Two_Integers.c
 │   ├── 2236_Root_Equals_Sum_of_Children.c
@@ -166,11 +168,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 30     |
+| Easy       | 31     |
 | Medium     | 12     |
 | Hard       | 0      |
 
-**Total Solved:** **42**
+**Total Solved:** **43**
 
 ## Goal
 
