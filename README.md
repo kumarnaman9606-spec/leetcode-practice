@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **44**
+* Total Problems Solved: **45**
 * Language: **C**
 
 ## Solutions
@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
 | 334         | Increasing Triplet Subsequence               | Medium     |
+| 344         | Reverse String                               | Easy       |
 | 345         | Reverse Vowels of a String                   | Easy       |
 | 374         | Guess Number Higher or Lower                 | Easy       |
 | 392         | Is Subsequence                               | Easy       |
@@ -81,6 +82,7 @@ leetcode-solutions/
 │   ├── 283_Move_Zeroes.c
 │   ├── 328_Odd_Even_Linked_List.c
 │   ├── 334_Increasing_Triplet_Subsequence.c
+|   ├── 344_Reverse_String.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
 │   ├── 374_Guess_Number_Higher_or_Lower.c
 │   ├── 392_Is_Subsequence.c
@@ -170,11 +172,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 31     |
+| Easy       | 32     |
 | Medium     | 13     |
 | Hard       | 0      |
 
-**Total Solved:** **44**
+**Total Solved:** **45**
 
 ## Goal
 
