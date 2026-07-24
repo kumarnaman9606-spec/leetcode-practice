@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **45**
+* Total Problems Solved: **46**
 * Language: **C**
 
 ## Solutions
@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 724         | Find Pivot Index                             | Easy       |
 | 735         | Asteroid Collision                           | Medium     |
 | 876         | Middle of the Linked List                    | Easy       |
+| 977         | Squares of a Sorted Array                    | Easy       |
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1108        | Defanging an IP Address                      | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
@@ -92,6 +93,7 @@ leetcode-solutions/
 │   ├── 724_Find_Pivot_Index.c
 |   ├── 735_Asteroid_Collision.c
 │   ├── 876_Middle_of_the_Linked_List.c
+│   ├── 977_Squares_of_a_Sorted_Array.c
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1108_Defanging_an_IP_Address.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
@@ -172,11 +174,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 32     |
+| Easy       | 33     |
 | Medium     | 13     |
 | Hard       | 0      |
 
-**Total Solved:** **45**
+**Total Solved:** **46**
 
 ## Goal
 
