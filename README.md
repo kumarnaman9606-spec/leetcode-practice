@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **46**
+* Total Problems Solved: **47**
 * Language: **C**
 
 ## Solutions
@@ -174,11 +174,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 33     |
+| Easy       | 34     |
 | Medium     | 13     |
 | Hard       | 0      |
 
-**Total Solved:** **46**
+**Total Solved:** **47**
 
 ## Goal
 
