@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **47**
+* Total Problems Solved: **48**
 * Language: **C**
 
 ## Solutions
@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 392         | Is Subsequence                               | Easy       |
 | 443         | String Compression                           | Medium     |
 | 605         | Can Place Flowers                            | Easy       |
+| 628         | Maximum Product of Three Numbers             | Easy       |
 | 643         | Maximum Average Subarray I                   | Easy       |
 | 724         | Find Pivot Index                             | Easy       |
 | 735         | Asteroid Collision                           | Medium     |
@@ -89,6 +90,7 @@ leetcode-solutions/
 │   ├── 392_Is_Subsequence.c
 │   ├── 443_String_Compression.c
 │   ├── 605_Can_Place_Flowers.c
+│   ├── 628_Maximum_Product_of_Three_Numbers.c
 │   ├── 643_Maximum_Average_Subarray_I.c
 │   ├── 724_Find_Pivot_Index.c
 |   ├── 735_Asteroid_Collision.c
@@ -174,11 +176,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 34     |
+| Easy       | 35     |
 | Medium     | 13     |
 | Hard       | 0      |
 
-**Total Solved:** **47**
+**Total Solved:** **48**
 
 ## Goal
 
