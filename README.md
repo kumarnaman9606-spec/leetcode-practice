@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **49**
+* Total Problems Solved: **50**
 * Language: **C**
 
 ## Solutions
@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 20          | Valid Parentheses                            | Easy       |
 | 21          | Merge Two Sorted Lists                       | Easy       |
 | 26          | Remove Duplicates from Sorted Array          | Easy       |
+| 80          | Remove Duplicates from Sorted Array II       | Medium     |
 | 125         | Valid Palindrome                             | Easy       |
 | 167         | Two Sum                                      | Medium     |
 | 206         | Reverse Linked List                          | Easy       |
@@ -73,6 +74,7 @@ leetcode-solutions/
 │   ├── 20_Valid_Parentheses.c
 │   ├── 21_Merge_Two_Sorted_Lists.c
 |   ├── 26_Remove_Duplicates_from_Sorted_Array.c
+|   ├── 80_Remove_Duplicates_from_Sorted_Array_II.c
 |   ├── 125_Valid_Palindrome.c
 |   ├── 167_Two_Sum_II_Input_Array_Is_Sorted.c
 │   ├── 206_Reverse_Linked_List.c
@@ -179,10 +181,10 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 35     |
-| Medium     | 14     |
+| Medium     | 15     |
 | Hard       | 0      |
 
-**Total Solved:** **49**
+**Total Solved:** **50**
 
 ## Goal
 
