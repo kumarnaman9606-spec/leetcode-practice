@@ -4,13 +4,14 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **50**
+* Total Problems Solved: **55**
 * Language: **C**
 
 ## Solutions
 
 | Problem No. | Problem Name                                 | Difficulty |
 | ----------- | -------------------------------------------- | ---------- |
+| 1           | Two Sum                                      | Easy       |
 | 2           | Add Two Numbers                              | Medium     |
 | 9           | Palindrome Number                            | Easy       |
 | 11          | Container With Most Water                    | Medium     |
@@ -22,14 +23,18 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 125         | Valid Palindrome                             | Easy       |
 | 167         | Two Sum                                      | Medium     |
 | 206         | Reverse Linked List                          | Easy       |
+| 217         | Contains Duplicate                           | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
+| 242         | Valid Anagram                                | Easy       |
 | 2469        | Convert the Temperature                      | Easy       |
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
 | 334         | Increasing Triplet Subsequence               | Medium     |
 | 344         | Reverse String                               | Easy       |
 | 345         | Reverse Vowels of a String                   | Easy       |
+| 349         | Intersection of Two Arrays                   | Easy       |
 | 374         | Guess Number Higher or Lower                 | Easy       |
+| 383         | Ransom Note                                  | Easy       |
 | 392         | Is Subsequence                               | Easy       |
 | 443         | String Compression                           | Medium     |
 | 605         | Can Place Flowers                            | Easy       |
@@ -67,6 +72,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 ```text
 leetcode-solutions/
 ├── C/
+│   ├── 1_Two_Sum.c
 │   ├── 2_Add_Two_Numbers.c
 │   ├── 9_Palindrome_Number.c
 │   ├── 11_Container_With_Most_Water.c
@@ -82,6 +88,7 @@ leetcode-solutions/
 │   ├── 2236_Root_Equals_Sum_of_Children.c
 │   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
+│   ├── 242_Valid_Anagram.c
 │   ├── 2413_Smallest_Even_Multiple.c
 │   ├── 2469_Convert_the_Temperature.c
 │   ├── 283_Move_Zeroes.c
@@ -89,7 +96,9 @@ leetcode-solutions/
 │   ├── 334_Increasing_Triplet_Subsequence.c
 |   ├── 344_Reverse_String.c
 │   ├── 345_Reverse_Vowels_of_a_String.c
+│   ├── 349_Intersection_of_Two_Arrays.c
 │   ├── 374_Guess_Number_Higher_or_Lower.c
+│   ├── 383_Ransom_Note.c
 │   ├── 392_Is_Subsequence.c
 │   ├── 443_String_Compression.c
 │   ├── 605_Can_Place_Flowers.c
@@ -175,12 +184,18 @@ leetcode-solutions/
 * Frequency Counting
 * Parity Transformation
 * Custom Comparator (`qsort`)
+* Hashing
+* Hash Tables
+* Hash Sets
+* Hash Maps
+* Frequency Tables
+* Frequency Counting
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 35     |
+| Easy       | 40     |
 | Medium     | 15     |
 | Hard       | 0      |
 
