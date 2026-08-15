@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **55**
+* Total Problems Solved: **56**
 * Language: **C**
 
 ## Solutions
@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 26          | Remove Duplicates from Sorted Array          | Easy       |
 | 80          | Remove Duplicates from Sorted Array II       | Medium     |
 | 125         | Valid Palindrome                             | Easy       |
+| 136         | Single Number                                | Easy       |
 | 167         | Two Sum                                      | Medium     |
 | 206         | Reverse Linked List                          | Easy       |
 | 217         | Contains Duplicate                           | Easy       |
@@ -82,6 +83,7 @@ leetcode-solutions/
 |   ├── 26_Remove_Duplicates_from_Sorted_Array.c
 |   ├── 80_Remove_Duplicates_from_Sorted_Array_II.c
 |   ├── 125_Valid_Palindrome.c
+|   ├── 136_Single_Number.c
 |   ├── 167_Two_Sum_II_Input_Array_Is_Sorted.c
 │   ├── 206_Reverse_Linked_List.c
 │   ├── 2235_Add_Two_Integers.c
@@ -195,11 +197,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 40     |
+| Easy       | 41     |
 | Medium     | 15     |
 | Hard       | 0      |
 
-**Total Solved:** **50**
+**Total Solved:** **56**
 
 ## Goal
 
