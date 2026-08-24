@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 
 ## Statistics
 
-* Total Problems Solved: **56**
+* Total Problems Solved: **57**
 * Language: **C**
 
 ## Solutions
@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems in C. The goal of thi
 | 217         | Contains Duplicate                           | Easy       |
 | 238         | Product of Array Except Self                 | Medium     |
 | 242         | Valid Anagram                                | Easy       |
+| 268         | Missing Number                               | Easy       |
 | 2469        | Convert the Temperature                      | Easy       |
 | 283         | Move Zeroes                                  | Easy       |
 | 328         | Odd Even Linked List                         | Medium     |
@@ -91,6 +92,7 @@ leetcode-solutions/
 │   ├── 2300_Successful_Pairs_of_Spells_and_Potions.c
 │   ├── 238_Product_of_Array_Except_Self.c
 │   ├── 242_Valid_Anagram.c
+│   ├── 268_Missing_Number.c
 │   ├── 2413_Smallest_Even_Multiple.c
 │   ├── 2469_Convert_the_Temperature.c
 │   ├── 283_Move_Zeroes.c
@@ -197,11 +199,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 41     |
+| Easy       | 42     |
 | Medium     | 15     |
 | Hard       | 0      |
 
-**Total Solved:** **56**
+**Total Solved:** **57**
 
 ## Goal
 
