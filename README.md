@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems in C and C++. The goa
 
 ## Statistics
 
-* Total Problems Solved: **58**
+* Total Problems Solved: **59**
 * Language: **C**
 
 ## Solutions
@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems in C and C++. The goa
 | 1071        | Greatest Common Divisor of Strings           | Easy       |
 | 1108        | Defanging an IP Address                      | Easy       |
 | 1266        | Minimum Time Visiting All Points             | Easy       |
+| 1295        | Find Numbers with Even Number of Digits      | Easy       |
 | 1431        | Kids With the Greatest Number of Candies     | Easy       |
 | 1480        | Running Sum of 1d Array                      | Easy       |
 | 1512        | Number of Good Pairs                         | Easy       |
@@ -117,6 +118,7 @@ leetcode-solutions/
 │   ├── 1071_Greatest_Common_Divisor_of_Strings.c
 │   ├── 1108_Defanging_an_IP_Address.c
 │   ├── 1266_Minimum_Time_Visiting_All_Points.c
+│   ├── 1295_Find_Numbers_with_Even_Number_of_Digits.c
 │   ├── 1431_Kids_With_the_Greatest_Number_of_Candies.c
 │   ├── 1512_Number_of_Good_Pairs.cpp
 │   ├── 1679_Max_Number_of_K_Sum_Pairs.c
@@ -201,11 +203,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 43     |
+| Easy       | 44     |
 | Medium     | 15     |
 | Hard       | 0      |
 
-**Total Solved:** **58**
+**Total Solved:** **59**
 
 ## Goal
 
