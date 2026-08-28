@@ -4,8 +4,8 @@ This repository contains my solutions to LeetCode problems in C and C++. The goa
 
 ## Statistics
 
-* Total Problems Solved: **59**
-* Language: **C**
+* Total Problems Solved: **61**
+* Language: **C AND CPP**
 
 ## Solutions
 
@@ -16,10 +16,12 @@ This repository contains my solutions to LeetCode problems in C and C++. The goa
 | 9           | Palindrome Number                            | Easy       |
 | 11          | Container With Most Water                    | Medium     |
 | 13          | Roman to Integer                             | Easy       |
+| 19          | Remove Nth Node From End of List             | Medium     |
 | 20          | Valid Parentheses                            | Easy       |
 | 21          | Merge Two Sorted Lists                       | Easy       |
 | 26          | Remove Duplicates from Sorted Array          | Easy       |
 | 80          | Remove Duplicates from Sorted Array II       | Medium     |
+| 83          | Remove Nth Node From End of List             | Easy       |
 | 125         | Valid Palindrome                             | Easy       |
 | 136         | Single Number                                | Easy       |
 | 167         | Two Sum                                      | Medium     |
@@ -81,6 +83,7 @@ leetcode-solutions/
 │   ├── 9_Palindrome_Number.c
 │   ├── 11_Container_With_Most_Water.c
 │   ├── 13_Roman_to_Integer.c
+│   ├── give file name for 19
 │   ├── 20_Valid_Parentheses.c
 │   ├── 21_Merge_Two_Sorted_Lists.c
 |   ├── 26_Remove_Duplicates_from_Sorted_Array.c
@@ -203,11 +206,11 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 44     |
-| Medium     | 15     |
+| Easy       | 45     |
+| Medium     | 16     |
 | Hard       | 0      |
 
-**Total Solved:** **59**
+**Total Solved:** **61**
 
 ## Goal
 
